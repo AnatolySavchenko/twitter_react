@@ -1,0 +1,8 @@
+.header{
+    width: 100%;
+    border-bottom: 3px solid black;
+}
+.header__imageLogo{
+ width: 69px;
+ height: 69px;
+}

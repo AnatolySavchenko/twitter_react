@@ -9,5 +9,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="twitterTest" />
+    <orderEntry type="module" module-name="react-todo" />
+    <orderEntry type="module" module-name="react-firebase" />
   </component>
 </module>

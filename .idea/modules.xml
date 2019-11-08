@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/учеба/react-firebase/.idea/react-firebase.iml" filepath="$USER_HOME$/учеба/react-firebase/.idea/react-firebase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../react-todo/.idea/react-todo.iml" filepath="$PROJECT_DIR$/../react-todo/.idea/react-todo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../twitterNodeJs/.idea/twitterTest.iml" filepath="$PROJECT_DIR$/../twitterNodeJs/.idea/twitterTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/twitter_react.iml" filepath="$PROJECT_DIR$/.idea/twitter_react.iml" />
     </modules>
   </component>
